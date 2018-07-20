@@ -6,9 +6,6 @@ Note that this project does not include **Server-Side Rendering**,  **Testing Fr
 
 Ideal for creating React apps from the scratch.
 
-### Branches
-- [`feature-tslint`](https://github.com/rokoroku/react-redux-typescript-boilerplate/tree/feature/tslint): yarn + tslint + prettier integrated branch.
-
 ## Contains
 
 - [Typescript](https://www.typescriptlang.org/) 2.9
