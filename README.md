@@ -1,12 +1,12 @@
-# Frontend Boilerplate with React, Redux & TypeScript
+# Frontend Boilerplate with React, Redux and TypeScript
 
-A bare minimum react-redux-webpack-typescript boilerplate with TodoMVC example. 
-
-Note that this project does not include **Server-Side Rendering**,  **Testing Frameworks** and other stuffs that makes the package unnecessarily complicated.
+A bare minimum react-redux-webpack-typescript boilerplate with todo list example.
 
 Ideal for creating React apps from the scratch.
 
-## Contains
+[Live demo](https://frycz.github.io/react-redux-typescript-boilerplate/)
+
+## Stack
 
 - [Typescript](https://www.typescriptlang.org/) 2.9
 - [React](https://facebook.github.io/react/) 16.4
@@ -16,7 +16,7 @@ Ideal for creating React apps from the scratch.
 - [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
 - [TodoMVC example](http://todomvc.com)
 
-### Build tools
+### Tools
 
 - [Webpack](https://webpack.github.io) 4
   - [Tree Shaking](https://medium.com/@Rich_Harris/tree-shaking-versus-dead-code-elimination-d3765df85c80)
