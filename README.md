@@ -1,6 +1,6 @@
 # Frontend Boilerplate with React, Redux and TypeScript
 
-A bare minimum react-redux-webpack-typescript boilerplate with todo list example.
+A bare minimum react-redux-webpack-typescript boilerplate with todo list example. Based on [react-redux-typescript-boilerplate](https://github.com/rokoroku/react-redux-typescript-boilerplate)
 
 Ideal for creating React apps from the scratch.
 
